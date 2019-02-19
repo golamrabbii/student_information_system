@@ -6,7 +6,7 @@
 <link rel="stylesheet" type="text/css" href="Style/viewtablesearch.css" />
 </head>
 <body>	
-<center><div class="img"><img src="Images/logo.jpg" /></div></center>
+<center><div class="img"><img src="Images/LOGO.JPG" /></div></center>
 	<br><center><h1><font size="50" color="white">Bangladesh University of Business and Technology</font></h1></center>
 	<center><font size="8" color="white">Student Information System</font></center>
 	
